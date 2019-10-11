@@ -1,4 +1,6 @@
-# Frontend to Virtore Commerce
+# Frontend to Virtore Commerce (using Python)
+
+For Frontend using PHP see https://github.com/virtore/frontend-php
 
 [English Version](#English)
 
